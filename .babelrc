@@ -1,0 +1,7 @@
+{
+    "presets": [
+        "@babel/env",
+        "@vue/babel-preset-jsx"
+    ],
+    "plugins": []
+}
